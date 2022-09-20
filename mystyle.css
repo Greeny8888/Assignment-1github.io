@@ -2,20 +2,7 @@ body {
   background-color: lightblue;
 }
 
-h1 {
-  font-family: "Times New Roman", Times, serif;
-}
-
-h1 {
-  color: White;
-  margin-left: 20px;
-}
-
-
-h2 {
-  color: white;
-  margin-left: 20px;
-}
-body {
-  color: Black;
+h{
+ text-align: left;
+ font-size: 100px;
 }
