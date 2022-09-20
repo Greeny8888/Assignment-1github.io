@@ -32,7 +32,26 @@ h5 {
   font-size: 50px;
 }
 
+h6  {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
 
+h7  {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+
+h8
+
+{
+ color: white;
+ text-align: center;
+ font-size: 50px;
+}
 p {
   font-family: verdana;
   font-size: 20px;
