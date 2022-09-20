@@ -2,7 +2,8 @@ body {
   background-color: lightblue;
 }
 
-h{
+h1, h2, h3, h4 {
+ color: green
  text-align: left;
  font-size: 100px;
 }
